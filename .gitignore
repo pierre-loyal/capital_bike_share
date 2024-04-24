@@ -1,0 +1,5 @@
+*.csv
+*.png
+*.pdf
+.DS_Store
+marketing_analysis_2023_11_29_final.ipynb
