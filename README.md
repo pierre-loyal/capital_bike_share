@@ -1,5 +1,6 @@
 ## Capital Bikeshare Analysis
 
-- Evaluated bike rental data to understand usage patterns and influence company strategy. Focused on data wrangling and exploratory data analysis to clean and prepare data for modeling.
-- Employed time series analysis and forecasting techniques using Facebook Prophet to predict bike rental demand, supporting operational planning and marketing efforts.
-- Developed a predictive model that assists in optimizing bike station locations and inventory levels, enhancing service reliability and customer satisfaction.
+### [Link to Presentation](https://pitch.com/v/cbs-pierre-loyal-4-2024-88362v)
+
+### Introduction
+This presentation focuses on analyzing bike-sharing data from 2021 to 2023 to understand demand patterns and improve forecasting accuracy. By exploring various features, including temporal, geographical, environmental, and operational aspects, it showcases the development of a machine learning predictive model designed to enhance bike availability during key hours. The presentation also introduces recommendations for real-time updates and model enhancements, aiming to achieve a target accuracy of 90%. Key sections include data exploration, predictive modeling, demand prediction strategies, and actionable insights for optimizing bike-sharing operations.
